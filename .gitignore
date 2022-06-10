@@ -1,0 +1,8 @@
+**/packages
+**/.vs
+**/bin
+**/obj
+**/js
+**/node_modules
+**/TestResults
+*app-sensitive.config

@@ -1,0 +1,39 @@
+<entities >
+  <entity name="contact" displayname="Contato" etc="2" primaryidfield="contactid" primarynamefield="fullname" disableplugins="false">
+    <fields>
+      <field displayname="Nome Completo" name="fullname" type="string" />
+      <field displayname="Nome" name="firstname" type="string" />
+      <field displayname="Segundo Nome" name="middlename" type="string" />
+      <field displayname="Contato" name="contactid" type="guid" primaryKey="true" />
+    </fields>
+  </entity>
+  <entity name="vnb_ingrediente" displayname="Ingrediente" etc="10243" primaryidfield="vnb_ingredienteid" primarynamefield="vnb_st_nome" disableplugins="false">
+    <fields>
+      <field displayname="Nome" name="vnb_st_nome" type="string" customfield="true" />
+      <field displayname="Ingrediente" name="vnb_ingredienteid" type="guid" primaryKey="true" />
+    </fields>
+  </entity>
+  <entity name="vnb_lanche" displayname="Lanche" etc="10255" primaryidfield="vnb_lancheid" primarynamefield="vnb_st_nome" disableplugins="false">
+    <fields>
+      <field displayname="Energia (kcal)" name="vnb_dc_energia" type="decimal" customfield="true" />
+      <field displayname="Fibra alimentar (g)" name="vnb_dc_fibra_alimentar" type="decimal" customfield="true" />
+      <field displayname="Gordura total (g)" name="vnb_dc_gordura_total" type="decimal" customfield="true" />
+      <field displayname="Gordura trans (g)" name="vnb_dc_gorduras_trans" type="decimal" customfield="true" />
+      <field displayname="Gorduras saturadas (g)" name="vnb_dc_gorduras_saturadas" type="decimal" customfield="true" />
+      <field displayname="Lanche" name="vnb_lancheid" type="guid" primaryKey="true" />
+      <field displayname="Nome" name="vnb_st_nome" type="string" customfield="true" />
+      <field displayname="Proteínas (g)" name="vnb_dc_proteinas" type="decimal" customfield="true" />
+      <field displayname="Sódio (g)" name="vnb_dc_sodio" type="decimal" customfield="true" />
+      <field displayname="Status" name="statecode" type="state" />
+      <field displayname="Razão do Status" name="statuscode" type="status" />
+      <field displayname="Carboidratos (g)" name="vnb_dc_carboidratos" type="decimal" customfield="true" />
+    </fields>
+  </entity>
+  <entity name="vnb_tipo_fornecedor" displayname="Tipo de Fornecedor" etc="10247" primaryidfield="vnb_tipo_fornecedorid" primarynamefield="vnb_st_nome" disableplugins="false">
+    <fields>
+      <field displayname="Nome" name="vnb_st_nome" type="string" customfield="true" />
+      <field displayname="Documentação para Onboardgin" name="vnb_mpl_documentacao_onboarding" type="optionsetvaluecollection" customfield="true" />
+      <field displayname="Tipo de Fornecedor" name="vnb_tipo_fornecedorid" type="guid" primaryKey="true" />
+    </fields>
+  </entity>
+</entities>
