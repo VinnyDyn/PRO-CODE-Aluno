@@ -2,7 +2,7 @@
 
 ### Instruções
 
-1. Faça [download]() do conteúdo.
+1. Faça [download](https://github.com/VinnyDyn/PRO-CODE-Aluno/releases/download/1.0/PRO-CODE.v1.0.zip) do conteúdo.
 2. Assista o [![vídeo]()]() para realizar a preparação 
 
 ### Links
