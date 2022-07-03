@@ -3,7 +3,8 @@
 ### Instruções
 
 1. Faça [download](https://github.com/VinnyDyn/PRO-CODE-Aluno/releases/download/1.0/PRO-CODE.v1.0.zip) do conteúdo.
-2. Assista o [![vídeo]()]() para realizar a preparação 
+2. Clique na imagem abaixo para assistir o vídeo e realizar a preparação.
+[![vídeo](https://github.com/VinnyDyn/PRO-CODE-Aluno/blob/master/imgs/thumbnail-configuracao.png)](https://youtu.be/uOflsAY1i1U)
 
 ### Links
 - [Trial Dynamics](https://dynamics.microsoft.com/pt-br/dynamics-365-free-trial/)
