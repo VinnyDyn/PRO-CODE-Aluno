@@ -1,26 +1,20 @@
 # PRO-CODE Aluno
 
 ### 🚀Conteúdo
-- Introdução ao SDK Dataverse
-- Principais ações (CRUD)
-- Conceitual dos Plugins
-  - Assembly, Plugin, Step e Image
-  - Event Pipeline
-  - Mode
-  - Context
-  - RESX
-- Exemplos práticos
-- Casos de uso
-  - Plugins
-  - Custom Actions
-  - Custom APIs
+| Tópico | Descrição |
+|---|---|
+| Introdução ao SDK Dataverse | Estruturas e Tipos de Dados |
+| Principais Ações | Create, Update, Upsert, Retrieve, RetrieveMultiple, Linq, Lambda, QueryExpression, Delete, ExecuteTransactionRequest, ExecuteMultipleRequest |
+| Conceitual dos Plugins | Estrutura, Assembly, Plugin, Step, Image, Event Pipeline, Mode, Context, RESX |
+| Exemplos Práticos | Desenvolvimento assistido de 6 demandas comuns de mercado |
+| Casos de Uso | Plugins, Custom Actions e Custom APIs |
 
 ### ✅ Pré-Requisitos
 | Tópico | Descrição |
 |---|---|
 | Lógica de Programação | Operadores lógicos, laços de repeticação e variáveis e listas (arrays) |
 | Linguagem C# | Tipos de variáveis, estruturas de classes e conceitos básicos sobre Orientação a Objetos |
-| Power Platform (Model-Driven | Dataverse) | Trabalhar com soluções, tabelas, colunas, visualizações, formulários e aplicativos baseados em modelo |
+| Model-Driven e Dataverse | Trabalhar com soluções, tabelas, colunas, visualizações, formulários e aplicativos baseados em modelo |
 
 ### ⚠️Orientações
 - Crie um ambiente aparatado ou utilize uma versão de avaliação! O conteúdo do curso conta com uma solução que promove customizações em tabelas comuns (Conta e Contato). 
